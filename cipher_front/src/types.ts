@@ -5,7 +5,3 @@ export interface ICipherState {
   decode: boolean;
 }
 
-export interface IAllCipherState {
-  password: string;
-  phrase: string;
-}
